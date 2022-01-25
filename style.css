@@ -14,7 +14,7 @@ a{
     height: 100vh;
     background: url(https://drive.google.com/thumbnail?id=1ivHqq_Pf5uAuYxejWUAu8qHqP54dkGz-);
     background-color: #cccccc; /* Used if the image is unavailable */
-    background-position: center; /* Center the image */
+    background-position: right; 
     background-repeat: no-repeat;
 }
 nav{
